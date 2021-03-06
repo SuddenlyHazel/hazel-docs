@@ -1,5 +1,5 @@
 # User & Builder Owned Software
-> Disclaimer this is a living document and my views here are subject to change as I work and reach new conclusions. I'd love to hear your own thoughts too. 
+> Disclaimer this is a living document and my views here are subject to change as I work and reach new conclusions. [I'd love to hear your own thoughts too.](https://github.com/SuddenlyHazel/hazel-docs/issues/1)
 
 
 ## Intro
@@ -36,21 +36,52 @@ Regardless, this isn't about shaming people for using these tools. I'm on [Twitt
 
 So, people think there is a problem, but what exactly is it? Well, its complicated, but here are a few I've identified.
 
-1. The product has negative long term or second degree effects. 
-2. The product helps creators make money, but:
-	1. The return is very little
-	2. The platform it too prohibitive
-	3. Too unstable.
-3. The product is a marketplace, but:
-	1. The fee structure is misaligned
-	2. The rules are applied selectively
-4. Users voices aren't heard.
+#### The product has negative long term or second degree effects. 
+
+This applies to platforms like Facebook, Instagram, Twitter. For example, optimizing to maximize user attention at all costs. Or, accidentally creating mechanisms that promote the spread of reactionary content (optimizing for engagement).
+
+#### The product helps creators make money, but..
+
+1. The return is very little.
+2. The platform it too prohibitive.
+3. Too unstable. (I was very successful, but fell out of favor with the algorithm.) (Took feature I needed for success)
+
+
+Issues of return apply to platforms like Instacart, Uber, Lyft. Issues with prohibitive content and being too unstable apply to platforms like Twitch, or YouTube.
+
+#### The product is a marketplace, but:
+
+1. The fee structure is too aggressive
+2. The rules are applied selectively
+3. Users voices aren't heard.
+
+This applies to platforms like the Apple App Store, or Google Playstore.
 
 Next, I argue that these issues are caused by at least one of the following:
 
 1. You're the product.
-2. You're not paying the bills.
-3. You're paying the bills,
+	1. Facebook
+	2. Instagram
+	3. Twitch
+	4. YouTube
+	5. Spotify (Artists)
+2. You make money, but you're not paying the bills.
+	1. YouTube
+	2. Twitch
+	3. Uber / Lyft
+	4. Spotify (Artists)
+3. Captive Marketplace or Walled Garden
+	1. Apple App Store
+	2. Google Play Store
+	3. Amazon Marketplace
+	4. Uber / Lyft
+4. Greenfield 
+	1. OnlyFans
+	2. Patreon
+5. Prohibitive Entry
+	1. OnlyFans
+	2. Venmo
+	3. CashApp
 
 
 
