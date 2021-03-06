@@ -1,0 +1,3 @@
+Just some notes on the legality of ICOs and Crowdsales in the US...
+
+[https://www.escapeartist.com/blog/crowdsale-ico-legal-united-states/](https://www.escapeartist.com/blog/crowdsale-ico-legal-united-states/)
